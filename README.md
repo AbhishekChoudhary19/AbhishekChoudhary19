@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Choudhary</h1>
 <h3 align="center">A passionate cross platform developer</h3>
 <img align="right" alt="coding" width="400" 
-  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3B4OGF0OHQxbmZycTF5bmZ1cnB6OXp5eDlpd29lYmo4NTQzcHd6MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fmkYSBlJt3XjNF6p9c/giphy.gif" 
+  src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftwxlvixc93j8vmm4zp53.gif" 
 >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekchoudhary19&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekchoudhary19" /> </p>
