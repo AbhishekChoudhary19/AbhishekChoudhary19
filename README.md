@@ -1,7 +1,8 @@
 ![MasterHead](https://wallpapers.com/images/hd/android-developer-it7n5u1rn04fd6v7.jpg)
 <h1 align="center">Hi 👋, I'm Abhishek Choudhary</h1>
 <h3 align="center">A passionate cross platform developer</h3>
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTFvb3N0aGxvb2t4ajB2NTg1c2lraWoyM21tOTlqdHp0Z3F1OHVuaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o6Zt6ML6BklcajjsA/giphy.gif"
+<img align="right" alt="coding" width="400" style="border-radius:25px;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTFvb3N0aGxvb2t4ajB2NTg1c2lraWoyM21tOTlqdHp0Z3F1OHVuaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o6Zt6ML6BklcajjsA/giphy.gif"
+  
 (https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3B4OGF0OHQxbmZycTF5bmZ1cnB6OXp5eDlpd29lYmo4NTQzcHd6MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fmkYSBlJt3XjNF6p9c/giphy.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekchoudhary19&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekchoudhary19" /> </p>
